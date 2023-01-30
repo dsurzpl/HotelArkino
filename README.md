@@ -15,6 +15,9 @@
 
 <img src=".readme-images/1.png" height="300" />
 <img src=".readme-images/2.png" height="300" />
+<br><br>
+
+### W podstronie Rooms znajduje się możliwość zarezerwowania pokoju dla zarejestrowanych użytkowników.
 <img src=".readme-images/3.png" height="300" />
 <img src=".readme-images/4.png" height="300" />
 <img src=".readme-images/5.png" height="300" />
